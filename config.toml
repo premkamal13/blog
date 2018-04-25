@@ -82,6 +82,7 @@ canonifyurls = true
   weight = 1
   identifier = "github"
   name = "GitHub"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
   url = "https://github.com/premkamal13"
   
 [[menu.links]]
