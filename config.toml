@@ -2,7 +2,7 @@
 baseURL = "/"
 languageCode = "en-US"
 title = "My Reveries"
-theme = "themes/hugo-split-theme"
+theme = "hugo-split-theme"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
 
 # Enter your tracking code to enable Google Analytics
