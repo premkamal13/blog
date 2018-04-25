@@ -1,5 +1,9 @@
-<footer id="footer" class="main-content-wrap">
-  <span class="copyrights">
-    &copy; {{ now.Format "2006" }} {{ with .Site.Params.footer.copyright }}{{ . | safeHTML }}{{ else }}{{ with .Site.Author.name }}{{ . }}{{ else }}{{ with .Site.Title }}{{ . }}{{ end }}{{ end }}{{ end }}. {{ i18n "footer.all_rights_reserved" }}
-  </span>
-</footer>
+<div class="split-credit">
+  <p>{{ .Site.Copyright | safeHTML }} - <a href="https://onepagelove.com/split">Split Template</a> by <a href="https://onepagelove.com">One Page Love</a></p>
+
+  {{ "<!--" | safeHTML }}
+  {{ "To edit this credit you can remove the CC3.0 license for only $5 here: https://onepagelove.com/split" | safeHTML }}
+  {{ "this really helps contribute towards us developing more templates and means the world to me!" | safeHTML }}
+  {{ "Cheers, Rob (@robhope)" | safeHTML }}
+  {{ "-->" | safeHTML }}
+</div>

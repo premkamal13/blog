@@ -2,7 +2,7 @@
 baseURL = "/"
 languageCode = "en-US"
 title = "My Reveries"
-theme = "hugo-split-theme"
+theme = "themes/hugo-split-theme"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
 
 # Enter your tracking code to enable Google Analytics
@@ -36,13 +36,6 @@ googleAnalytics = ""
       enable = true
       file = "![travel](/cf_travel.jpg)"
       position = "center center"
-
-    # Video
-    [params.visual.video]
-      enable = false
-      mute = true
-      file = "videos/background.mp4"
-      # youtubeId = "dk9uNWPP7EA"
 
   # Links
   #
@@ -96,8 +89,3 @@ googleAnalytics = ""
       [[params.links.list3.link]]
         text = "Link Three"
         url = "#"
-
-  # The original template is released under the Creative Commons Attribution 3.0 License.
-  # Please keep the original attribution link when using for your own project.
-  # If you'd like to use the template without the attribution, you can check out
-  # the license option via the template author's website: https://onepagelove.com/split
