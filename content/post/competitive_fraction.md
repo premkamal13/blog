@@ -12,10 +12,10 @@ thumbnailImage: ![img_1](/cf_run.jpg)
 ---
 
 
-
 **What is it?**
 
-There is a fraction of competitiveness inside every individual, at least in 99% of them. In a few cases, this feeling decides how people will move forward in life. Well, I am one of those typical weirdoes. Majority of my decisions are motivated by a competitive spirit. I wanna be better, not because maybe I can, but because i have to.
+There is a fraction of competitiveness inside every individual, if you opened this article, i think you do as well. 
+Its not necessarily a bad thing. In a few cases, this feeling decides how people will move forward in life. Well, I am one of those typical weirdoes. Majority of my decisions are motivated by a competitive spirit. I wanna be better, not because maybe I can, but because i have to.
 
 So, who do I compete with? May be a friend, may be a foe. Maybe someone, who is better in eyes of someone I care about or maybe the person I care about. Actually, the answer is whoever gains my attention and I think in some ways he is better than me. 
 
