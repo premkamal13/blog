@@ -8,7 +8,7 @@ categories:
 tags:
 - article
 thumbnailImagePosition: left
-thumbnailImage: /static/cf_run.jpg
+thumbnailImage: /../../static/cf_run.jpg
 ---
 
 
@@ -19,7 +19,7 @@ There is a fraction of competitiveness inside every individual, at least in 99% 
 
 So, who do I compete with? May be a friend, may be a foe. Maybe someone, who is better in eyes of someone I care about or maybe the person I care about. Actually, the answer is whoever gains my attention and I think in some ways he is better than me. 
 
-/static/cf_competition.jpg
+/../../static/cf_competition.jpg
 
 How did this begin? I don’t know. But I remember having that spark from as long as I can remember - the childhood games that I played, the little inter-house competitions held at school and even a mark less that I got in my subjects of interest.
 
@@ -34,4 +34,4 @@ One day, I got a comment from the same teacher, your handwriting is getting real
 
 **But lets be vary of what it is not?**
 
-/static/cf_run.jpg
+/../../static/cf_run.jpg
