@@ -33,7 +33,7 @@ canonifyurls = true
 
 [author]
   name = "Prem Kamal"
-  bio = "Avidly Curious | **Explorer** | Technophile"
+  bio = "Avidly Curious | **Explorer** | Technophile "
   job = "Software Engineer"
   location = "Bengaluru, India"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -82,8 +82,8 @@ canonifyurls = true
   weight = 1
   identifier = "github"
   name = "GitHub"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
   url = "https://github.com/premkamal13"
+  
 [[menu.links]]
   weight = 2
   identifier = "stackoverflow"
@@ -96,7 +96,11 @@ canonifyurls = true
   identifier = "rss"
   name = "RSS"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
-  url = "http://myreveries.online/"
+<<<<<<< Updated upstream
+  url = "http://www.myreveries.online/"
+=======
+  url = "https://www.myreveries.online/"
+>>>>>>> Stashed changes
 
 [params]
   # Customize date format use to render blog post date, categories and other
