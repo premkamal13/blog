@@ -26,7 +26,9 @@ How did this begin? I don’t know. But I remember having that spark from as lon
 **An old story…**
 
 I can recall an incident that relates to the title.
-I was in class IV, when some assignment was given the class. I worked hard to complete it. A good friend of mine asked me to let him copy mine for he had forgotten to complete it at home. Well, he copied it and yeah, I was happy to help, all good. But something changed afterwards. His copy was marked A+ and mine an A. I was not happy about it. I was agitated, there was no difference in the work, no? Why the hell did the teacher mark me a grade less than him. I borrowed his copy and looked at both of them for quite a while. This time I got it. There was one. His handwriting was actually much more appealing than mine. I kept the copy back in my bag with a silent promise to myself. I was going to get better. 
+I was in class IV, when some assignment was given the class. I worked hard to complete it. A good friend of mine asked me to let him copy mine for he had forgotten to complete it at home. Well, he copied it and yeah, I was happy to help, all good. 
+
+But something changed afterwards. When our copies returned after being signed, the copy was marked A+ and mine an A. I was not happy about it. I was agitated, there was no difference in the work, no? Why the hell did the teacher mark me a grade less than him. I borrowed his copy and looked at both of them for quite a while. This time I got it. There was one. His handwriting was actually much more appealing than mine. I kept the copy back in my bag with a silent promise to myself. I was going to get better. 
 
 That is my first memory when that competitive fraction got the best out of me. I remembered that incident and I practiced improving my handwriting most of the time. I was more bothered about my handwriting than all my work. Slowly, I began to get better, more curvy, smooth, round and tiny-bit better with every next page that I wrote. 
 
