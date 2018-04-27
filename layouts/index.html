@@ -1,48 +1,21 @@
-<!DOCTYPE html>
-<html lang="en-US">
-
-<head>
-  {{ partial "head" . }}
-</head>
-
-<body id="fullsingle" class="page-template-page-fullsingle-split">
-
-  <div class="fs-split">
-
-    <!-- Image -->
-    {{ if .Site.Params.visual.image.enable }}
-    
-      <div class="split-image">
-
-      </div>
-
-    <!-- Video -->
-    {{ else if .Site.Params.visual.video.enable }}
-
-      {{ partial "video" . }}
-
-    {{ end }}
-
-    <!-- Content Side -->
-    <div class="split-content">
-      <div class="split-content-vertically-center">
-
-        <!-- Intro -->
-        {{ partial "intro" . }}
-
-        <!-- Bio -->
-        {{ partial "bio" . }}
-
-        <!-- Links -->
-        {{ partial "links" . }}
-
-        <!-- Footer -->
-        {{ partial "footer" . }}
-
+{{ partial "head.html" . }}
+  <body>
+    <div id="blog">
+      {{ partial "header.html" . }}
+      {{ partial "sidebar.html" . }}
+      {{ partial "post/header-cover.html" . }}
+      <div id="main" data-behavior="{{ .Scratch.Get "sidebarBehavior" }}"
+        class="{{ with .Params.coverimage }}hasCover{{ end }}
+               {{ if eq .Params.covermeta "out" }}hasCoverMetaOut{{ else }}hasCoverMetaIn{{ end }}
+               {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
+        <section class="postShorten-group main-content-wrap">
+          {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+          {{ range $paginator.Pages }}
+            {{ .Render "summary" }}
+          {{ end }}
+          {{ partial "pagination.html" . }}
+        </section>
+        {{ partial "footer.html" . }}
       </div>
     </div>
-
-  </div>
-
-</body>
-</html>
+{{ partial "foot.html" . }}
