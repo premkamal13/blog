@@ -1,32 +1,42 @@
-{{ $pag := $.Paginator }}
-{{ if gt $pag.TotalPages 1 }}
-<nav class="navigation pagination" role="navigation">
-	<h2 class="screen-reader-text">Posts navigation</h2>
-	<div class="nav-links">
-		{{ if $pag.HasPrev }}
-			<a class="prev page-numbers" href="{{ $pag.Prev.URL }}">Previous</a>
-		{{ end }}
-			{{ $.Scratch.Set "__paginator.ellipsed" false }}
-			{{ range $pag.Pagers }}
-			{{ $right := sub .TotalPages .PageNumber }}
-			{{ $showNumber := or (le .PageNumber 3) (eq $right 0) }}
-			{{ $showNumber := or $showNumber (and (gt .PageNumber (sub $pag.PageNumber 2)) (lt .PageNumber (add $pag.PageNumber 2)))  }}
-			{{ if $showNumber }}
-				{{ $.Scratch.Set "__paginator.ellipsed" false }}
-				{{ $.Scratch.Set "__paginator.shouldEllipse" false }}
-			{{ else }}
-				{{ $.Scratch.Set "__paginator.shouldEllipse" (not ($.Scratch.Get "__paginator.ellipsed") ) }}
-				{{ $.Scratch.Set "__paginator.ellipsed" true }}
-			{{ end }}
-				{{ if $showNumber }}
-					<a class="page-numbers" href="{{ .URL }}">{{ .PageNumber }}</a>
-				{{ else if ($.Scratch.Get "__paginator.shouldEllipse") }}
-					<span aria-current="page" class="page-numbers current">{{ .PageNumber }}</span>
-				{{ end }}
-			{{ end }}
-		{{ if $pag.HasNext }}
-			<a class="next page-numbers" href="{{ $pag.Next.URL }}">Next</a>
-		{{ end }}
-	</div>
-</nav>
+{{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+  <div class="pagination-bar">
+    <ul class="pagination">
+      {{ if .Site.Params.swapPaginator }}
+        {{ if .Paginator.HasPrev }}
+          <li class="pagination-prev">
+            <a class="btn btn--default btn--small" href="{{ .Paginator.Prev.URL }}">
+              <i class="fa fa-angle-left text-base icon-mr"></i>
+              <span>{{ i18n "pagination.older_posts" }}</span>
+            </a>
+          </li>
+        {{ end }}
+        {{ if .Paginator.HasNext }}
+          <li class="pagination-next">
+            <a class="btn btn--default btn--small" href="{{ .Paginator.Next.URL }}">
+              <span>{{ i18n "pagination.newer_posts" }}</span>
+              <i class="fa fa-angle-right text-base icon-ml"></i>
+            </a>
+          </li>
+        {{ end }}
+      {{ else }}
+        {{ if .Paginator.HasPrev }}
+          <li class="pagination-prev">
+            <a class="btn btn--default btn--small" href="{{ .Paginator.Prev.URL }}">
+              <i class="fa fa-angle-left text-base icon-mr"></i>
+              <span>{{ i18n "pagination.newer_posts" }}</span>
+            </a>
+          </li>
+        {{ end }}
+        {{ if .Paginator.HasNext }}
+          <li class="pagination-next">
+            <a class="btn btn--default btn--small" href="{{ .Paginator.Next.URL }}">
+              <span>{{ i18n "pagination.older_posts" }}</span>
+              <i class="fa fa-angle-right text-base icon-ml"></i>
+            </a>
+          </li>
+        {{ end }}
+      {{ end }}
+      <li class="pagination-number">{{ i18n "pagination.page" . }} {{ i18n "pagination.of" . }}</li>
+    </ul>
+  </div>
 {{ end }}
