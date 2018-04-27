@@ -15,10 +15,12 @@ paginate = 5 #frontpage pagination
   author = "Prem Kamàl"
   authorLink = "https://www.myreveries.online"
   bio = [
-    "I am an avidly curious fellow. I love to explore anything new that comes my way. I have spent his first 3 years engineering at Directi. "
+    "I am an avidly curious fellow. I love to explore anything new that comes my way. I have spent his first 3 years engineering at Directi. Oh, almost forgot, I love to travel, explore and read new people"
   ]
   copyright = [
-    "&copy; 2018 Prem Kamàl"
+    "&copy; 2018 Prem Kamàl",
+    "",
+    ""
   ]
 
 
