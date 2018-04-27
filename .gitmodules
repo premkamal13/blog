@@ -9,3 +9,7 @@
 [submodule "themes/hugo-split-theme"]
 	path = themes/hugo-split-theme
 	url = https://github.com/christianmendoza/hugo-split-theme
+
+[submodule "themes/hugo-nederburg-theme"]
+	path = themes/hugo-nederburg-theme
+	url = https://github.com/appernetic/hugo-nederburg-theme.git

@@ -1,24 +1,28 @@
-<header id="header" data-behavior="{{ .Scratch.Get "sidebarBehavior" }}">
-  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
-  <div class="header-title">
-    <a class="header-title-link" href="{{ "/" | relLangURL }}">{{ .Site.Title }}</a>
+<div id="title-info" class="title-info">
+  <div id='site-title' class='site-title'>
+    {{ if ( ne .Site.Title "" ) }}
+    <a href="{{ .Site.BaseURL | relLangURL }}"> {{ .Site.Title }} </a>
+    {{ end }}</div>
   </div>
-  {{ with .Site.Params.header.rightLink }}
-    {{ if and (in .url ":") (not (in .url (printf "%s" $.Site.BaseURL))) }}
-      <a class="{{ if .icon }}header-right-icon {{ else }}header-right-picture {{ end }}{{ with .class }}{{ . }}{{ end }}"
-         href="{{ .url | safeURL }}" target="_blank" rel="noopener">
-    {{ else if .url }}
-      <a class="{{ if .icon }}header-right-icon {{ else }}header-right-picture {{ end }}{{ with .class }}{{ . }}{{ end }}"
-         href="{{ .url | safeURL }}">
+  <button id="toggle-navigation" class="toggle-navigation">
+    <i class="fa fa-bars"></i>
+  </button>
+
+  <div id="menu-primary-tracks" class="menu-primary-tracks"></div>
+  <div id="menu-primary" class="menu-container menu-primary" role="navigation">
+    {{ with .Site.Params.Slogan }}
+    <p class="site-description">{{ . | default "" | safeHTML }}</p>
     {{ end }}
-    {{ if .icon }}
-      <i class="fa fa-lg fa-{{ .icon }}"></i>
-    {{ end }}
-    {{ if not $.Site.Params.header.rightLink.icon }}
-      {{ with ($.Scratch.Get "authorPicture") }}
-        <img class="header-picture" src="{{ . }}{{ if in . "//www.gravatar.com/avatar/" }}?s=90{{ end }}" alt="{{ i18n "global.author_picture" }}" />
-      {{ end }}
-    {{ end }}
-    </a>
-  {{ end }}
-</header>
+
+    <div class="menu">
+      <ul id="menu-primary-items" class="menu-primary-items">
+        {{ $page := . }}
+        {{ range .Site.Menus.main }}
+        <li id="menu-item" class='menu-item {{ if eq ("/") (.URL) }}menu-item-type-custom menu-item-object-custom{{ else }}menu-item-type-post_type menu-item-object-page{{ end }} {{ if $page.IsMenuCurrent "main" . }}current-menu-item current_page_item{{ end }}'>
+          <a href="{{ .URL | absURL }}">{{ .Name }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+
+  </div>

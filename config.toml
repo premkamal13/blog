@@ -1,91 +1,63 @@
-# Site settings
-baseURL = "/"
-languageCode = "en-US"
-title = "My Reveries"
-theme = "themes/hugo-split-theme"
-disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
-
-# Enter your tracking code to enable Google Analytics
+baseurl = "/"
+title = "My reveries..."
+theme = "hugo-nederburg-theme"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+preserveTaxonomyNames = true
+paginate = 5 #frontpage pagination
 
 [params]
+  slogan = "Keep exploring till you find what's new to explore"
+  description = "A dump of most useful things that I find" # meta description
+  author = "Prem Kamàl"
+  authorLink = "https://www.myreveries.online"
+  bio = [
+    "I am an avidly curious fellow. I love to explore anything new that comes my way. I have spent his first 3 years engineering at Directi. "
+  ]
+  copyright = [
+    "&copy; 2018 Prem Kamàl"
+  ]
 
-  # Metadata for search engines and social sharing
-  name = "Prem Kamal"
-  description = "Avidly Curious | Explorer | Technophile"
-  shareImage = "![profile_pic](/profile.jpg)"
-  twitterHandle = "premkamal008"
 
-  # Favicon
-  favicon = "favicon.ico"
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below (it is also used in Gravatar for the bio).
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "goran@molnsys.com"
 
-  # Copyright
-  copyright = "&copy;2018 Prem Kamal"
+  # Nav links in the side bar
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
 
-  # Section - Content
-  [params.content]
-    name = "Prem Kamal"
-    tagline = "Thinker.Explorer .Techie"
-    bio = "Software Engineer @ Zeta, Directi.  I like to apply smart design sense with strong technological, architectural, organizational & analytical skills. Love to travel. "
+  [[menu.main]]
+  name = "About"
+  url = "about/"
+  weight = 2
 
-  # Section - Visual
-  [params.visual]
+  [[menu.main]]
+  name = "Get in touch"
+  url = "contact/"
+  weight = 3
 
-    # Image
-    [params.visual.image]
-      enable = true
-      file = "![travel](/cf_travel.jpg)"
-      position = "center center"
-
-  # Links
-  #
-  # Links List #1
-  [[params.links]]
-    [params.links.list1]
-      heading = "Connect"
-
-      [[params.links.list1.link]]
-        text = "Blog"
-        url = "#"
-
-      [[params.links.list1.link]]
-        text = "Email"
-        url = "emailto:premkamal008@gmail.com"
-
-      [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
-
-  # Links List #2
-  [[params.links]]
-    [params.links.list2]
-      heading = "Social"
-
-      [[params.links.list2.link]]
-        text = "Twitter"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Instagram"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Dribbble"
-        url = "#"
-
-  # Links List #3
-  [[params.links]]
-    [params.links.list3]
-      heading = "Network"
-
-      [[params.links.list3.link]]
-        text = "Link One"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Two"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Three"
-        url = "#"
+  [params.social]
+  facebook      = "full profile url in facebook"
+  googleplus    = "full profile url in googleplus"
+  email         = "email@example.com"
+  twitter       = "full profile url in twitter"
+  linkedin      = "full profile url in linkedin"
+  stackoverflow = "full profile url in stackoverflow"
+  instagram     = "full profile url in instagram"
+  github        = "full profile url in github"

@@ -1,40 +1,25 @@
-<meta charset="UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-
-<!-- SEO -->
-<title>{{ .Title }}</title>
-{{ with .Site.Params.name }}<meta name="author" content="{{ . }}" />{{ end }}
-{{ with .Site.Params.description }}<meta name="description" content="{{ . }}" />{{ end }}
-<meta name="robots" content="index, follow" />
-<meta name="referrer" content="always" />
-
-<!-- Social & Open Graph -->
-<meta property="og:title" content="{{ .Title }}" />
-{{ with .Site.Params.description }}<meta property="og:description" content="{{ . }}" />{{ end }}
-<meta property="og:url" content="{{ .Site.BaseURL }}" />
-{{ with .Site.Params.shareImage }}
-<meta property="og:image" content="{{ . | absURL }}" />
-<meta name="twitter:card" content="summary_large_image" />
-{{ end }}
-{{ with .Site.Params.twitterHandle }}<meta name="twitter:site" content="@{{ . }}" />{{ end }}
-
-<!-- Favicon -->
-{{ with .Site.Params.favicon }}<link rel="icon" href="{{ . }}" />{{ end }}
-
-<!-- Styles -->
-<link rel="stylesheet" href="assets/css/split.css" type="text/css" media="screen" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-
-<!-- Image Styles -->
-{{ if .Site.Params.visual.image.enable }}
-  <style type="text/css">
-  {{ if .Site.Params.visual.image.file }}
-    .fs-split .split-image { background-image: url("{{ .Site.Params.visual.image.file }}"); background-position: {{ if .Site.Params.visual.image.position }}{{ .Site.Params.visual.image.position }}{{ else }}center center{{ end }}; }
-  {{ end }}
-  </style>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+{{ with .Title }} <title>{{ . }} {{if $.IsHome}}- {{ $.Site.Params.slogan | default "" | safeHTML }}{{ end }}</title>
 {{ end }}
 
-<!-- Google Analytics -->
-{{ if and (.Site.GoogleAnalytics) (not (in (printf "%#v" .Site.BaseURL) "localhost")) }}
-  {{ template "_internal/google_analytics.html" . }}
+{{ with .Site.Params.description }}
+<meta name="description" content="{{ . | default "" }}">
 {{ end }}
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="all,follow">
+<meta name="googlebot" content="index,follow,snippet,archive">
+<link rel="stylesheet" id="ct-tracks-google-fonts-css" href="//fonts.googleapis.com/css?family=Raleway%3A400%2C700&amp;subset=latin%2Clatin-ext&amp;ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" href="{{ "css/font-awesome.min.css" | absURL }}" type='text/css' media='all'>
+<!-- Theme stylesheet, if possible do not edit this stylesheet -->
+<link href="{{ "css/style.css" | absURL }}" rel="stylesheet" id="theme-stylesheet" type='text/css' media='all'>
+<!-- Custom stylesheet - for your changes -->
+<link href="{{ "css/custom.css" | absURL }}" rel="stylesheet" type='text/css' media='all'>
+<link rel="shortcut icon" href="{{ "img/favicon.ico" | absURL }}" type="image/x-icon">
+<link rel="icon" href="{{ "img/favicon.ico" | absURL }}" type="image/x-icon">
+{{ if .RSSLink }}
+<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title | default "" }}" />
+<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title | default "" }}" />
+{{ end }}
+{{ template "_internal/google_analytics_async.html" . }}
