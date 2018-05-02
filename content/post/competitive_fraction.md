@@ -14,7 +14,7 @@ thumbnailImage: ![img_1](/cf_run.jpg)
 
 <font size = "3">A page from my adolescence diaries... </font>
 
-<img src="/cf_competition_race.png" alt="Drawing" style="height: 300px;"/>
+<img src="/cf_competition_race.png" alt="Drawing" style="height: 150px;"/>
 
 **What Competitive Fraction am I talking about?**
 
@@ -32,7 +32,7 @@ In a few cases, this feeling decides how you will move forward in life.
 <p> <font color = "#552525">I am one of those common people. Majority of my decisions are motivated by a competitive spirit. </br>I wanna be better, not because I can, but because i have to. </font></p>
 
 <br>
-<img src="/cf_competition.jpg" alt="Drawing" style="height: 200px;"/>
+<img src="/cf_competition.jpg" alt="Drawing" style="height: 150px;"/>
 <br>
 <br>
 **So, who do I compete with?**
@@ -44,7 +44,7 @@ In absence of the above, its the prior best-self.
 
 .
 
-<img src="/cf_sack_race.jpg" alt="Drawing" style="height: 200px;"/>
+<img src="/cf_sack_race.jpg" alt="Drawing" style="height: 150px;"/>
 
 .
 
@@ -65,7 +65,7 @@ But something changed afterwards. When our copies returned after being graded, m
 <br>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<img src="/cf_grades.jpg" alt="Drawing" style="height: 160px;"/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/cf_child_cry.jpg" alt="Drawing" style="height: 140px;"/>
+<img src="/cf_child_cry.jpg" alt="Drawing" style="height: 120px;"/>
 <br><br>
 <font color = "#552525">I went through so much in the moment:<br><ul> <li> heart-broken by the injustice of teacher</li> <li>betrayal by a friend who I helped and limitless anger for all the unfair world.</li></font> </ul><br>
 <br>
@@ -95,10 +95,10 @@ After all the good that it does, its just important to keep in head, **when it g
 
 <ul><li>
  &nbsp;
-<img src="/cf_harm.png" alt="Drawing" style="height: 200px;"/>
-
+<img src="/cf_harm.png" alt="Drawing" style="height: 120px;"/>
 <br>
-<li>&nbsp;&nbsp;<img src="/cf_backstab.jpeg" alt="Drawing" style="height: 200px;"/>
+<br>
+<li>&nbsp;&nbsp;<img src="/cf_backstab.jpeg" alt="Drawing" style="height: 120px;"/>
 </ul>
 
 <i>probably only when you start thinking of the weaknesses of your competitor more than the strength in you!!
