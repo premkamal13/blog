@@ -12,7 +12,7 @@ thumbnailImage: ![img_1](/cf_run.jpg)
 ---
 
 
-<font size = "3">A page from my adolescence age diaries... </font>
+<font size = "3">A page from my adolescence diaries... </font>
 
 <img src="/cf_competition_race.png" alt="Drawing" style="height: 300px;"/>
 
@@ -78,7 +78,7 @@ After the shades of anger faded away, i knew inside why my friend was a clear wi
 <br>
 
 His **handwriting** was actually much more appealing than mine. I kept the copy back in my bag with a silent promise to get better. <br>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/cf_handwriting.jpg" alt="Drawing" style="width: 500px;"/><br><br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/cf_handwriting.jpg" alt="Drawing" style="height: 200px;"/><br><br>
 <br>
 That is the first strong memory of competitive fraction that rested in me. I remembered that incident and I practiced improving my handwriting most of the time. I always used to get some handwriting assignments from my Dad but this time, it was serious. <br>I was more bothered about my handwriting than completion of the task. Slowly, I began to get better, more curvy, smooth, round and tiny-bit better with every 5 pages that I wrote. 
 
