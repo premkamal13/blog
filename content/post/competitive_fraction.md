@@ -67,12 +67,12 @@ But something changed afterwards. When our copies returned after being graded, m
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="/cf_child_cry.jpg" alt="Drawing" style="height: 120px;"/>
 <br><br>
-<font color = "#552525">I went through so much in the moment:<br><ul> <li> heart-broken by the injustice of teacher</li> <li>betrayal by a friend who I helped and limitless anger for all the unfair world.</li></font> </ul><br>
+<font color = "#552525">I went through so much in the moment:<br><ul> <li> heart-broken by the injustice of the teacher</li> <li>betrayal by a friend who I helped & </li> <li>wrath for the unfair world.</li></font> </ul><br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/cf_anger.png" alt="Drawing" style="height: 100px;"/>
 <br>
-<br>" <font color = "#552525"><i>There was no difference at in the essay, no? 
-</br>Why would the teacher mark me a grade less than him. </i>" </font><br> <br>
+<br>" <font color = "#552525"><i>There was no difference in our essays, no? 
+</br>Why would the teacher mark me a grade less than him? </i>" </font><br> <br>
 </p>I borrowed the graceful copy from my friend and looked at both the copies for a while. It took me some time but I got the difference. <br>
 After the shades of anger faded away, i knew inside why my friend was a clear winner. 
 <br>
