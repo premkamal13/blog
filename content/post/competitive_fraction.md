@@ -1,7 +1,7 @@
 ---
 title: "Competitive Fraction"
 date: 2018-04-25T17:39:00+05:30
-draft: false
+draft: true
 categories:
 - childhood
 - story
