@@ -86,7 +86,7 @@ One day, I got a comment from the same teacher, "<font color = "#228B22">your ha
 After few days, she took my copy and showed it to the whole class as the sample of <font color = "#228B22"><b>a beautiful piece of handwriting</b></font>. 
 
 
-Done, that appreciation surpassed all the spite and I had a much better hand now!
+Done, that appreciation surpassed all the spite and I had a much better handwriting now! <br>A total win-win at the end of the small episode!
 <br>
 </font>
 <hr>
