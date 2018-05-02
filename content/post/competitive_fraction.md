@@ -95,7 +95,7 @@ After all the good that it does, its just important to keep in head, **when it g
 
 <ul><li>
  &nbsp;
-<img src="/cf_harm.png" alt="Drawing" style="height: 120px;"/>
+<img src="/cf_harm.png" alt="Drawing" style="width: 350px;"/>
 <br>
 <br>
 <li>&nbsp;&nbsp;<img src="/cf_backstab.jpeg" alt="Drawing" style="height: 120px;"/>
