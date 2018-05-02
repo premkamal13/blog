@@ -1,6 +1,6 @@
 ---
 title: "Dilemma at the peak"
-date: 2018-05-03T12:34:00+05:30
+date: 2018-05-03T00:34:00+05:30
 draft: false
 categories:
 - poem
@@ -8,8 +8,6 @@ tags:
 - travel
 - pictures
 - poem
-thumbnailImagePosition: left
-thumbnailImage: ![img_1](/tp/tp_bag.jpg)
 ---
 
 <p>

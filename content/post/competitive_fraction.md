@@ -7,14 +7,11 @@ categories:
 tags:
 - childhood
 - lesson
-thumbnailImagePosition: left
-thumbnailImage: ![img_1](/cf/cf_run.jpg)
 ---
-
 
 <font size = "2.5">[ A page from my adolescence diaries... ] </font>
 
-<img src="/cf/cf_competition_race.png" alt="Competing kids" style="height: 150px;"/>
+<img src="/cf/cf_competition_race.png" alt="Healthy competition" style="height: 150px;"/>
 
 **What Competitive Fraction am I talking about?**
 
@@ -37,9 +34,9 @@ In a few cases, this feeling decides how you will move forward in life.
 <br>
 **So, who do I compete with?**
 
-May be a friend, may be a foe. Maybe someone, who is better in eyes of someone I care about or maybe the person I care about. Actually, the answer is whoever gains my attention and I wish to chase the ways he is better than me (that happens in a good number of cases). 
+May be a friend, may be a foe. Maybe someone, who is better in eyes of someone I care about or maybe the person I care about. <br>Actually, the answer is whoever gains my attention and I wish to chase the ways he is better than me.
 
-In absence of the above, its the prior best-self.
+In absence of the above, its my prior best-self.
 
 
 .
@@ -63,7 +60,7 @@ I was in class IV, when an essay assignment was given in the Hindi class. I work
 But something changed afterwards. When our copies returned after being graded, my friend's article was marked an **A+** and mine an **A**. 
 <p>
 <br>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;<img src="/cf/cf_grades.jpg" alt="High Grades" style="height: 160px;"/> 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<img src="/cf/cf_grades.jpg" alt="High grades" style="height: 160px;"/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="/cf/cf_child_cry.jpg" alt="Low grades" style="height: 120px;"/>
 <br><br>
@@ -78,7 +75,7 @@ After the shades of anger faded away, i knew inside why my friend was a clear wi
 <br>
 
 His **handwriting** was actually much more appealing than mine. I kept the copy back in my bag with a silent promise to get better. <br>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/cf/cf_handwriting.jpg" alt="Beautiful Handwriting" style="width: 300px;"/><br><br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/cf/cf_handwriting.jpg" alt="Caligraphic handwriting" style="width: 300px;"/><br><br>
 <br>
 That is the first strong memory of competitive fraction that rested in me. I remembered that incident and I practiced improving my handwriting most of the time. I always used to get some handwriting assignments from my Dad but this time, it was serious. <br>I was more bothered about my handwriting than completion of the task. Slowly, I began to get better, more curvy, smooth, round and tiny-bit better with every 5 pages that I wrote. 
 
@@ -95,10 +92,10 @@ After all the good that it does, its just important to keep in head, **when it g
 
 <ul><li>
  &nbsp;
-<img src="/cf/cf_harm.png" alt="Harm others" style="width: 350px;"/>
+<img src="/cf/cf_harm.png" alt="Unhealthy competition" style="width: 350px;"/>
 <br>
 <br>
-<li>&nbsp;&nbsp;<img src="/cf/cf_backstab.jpeg" alt="Back stab" style="height: 120px;"/>
+<li>&nbsp;&nbsp;<img src="/cf/cf_backstab.jpeg" alt="Back stabbing" style="height: 120px;"/>
 </ul>
 
 <i>probably only when you start thinking of the weaknesses of your competitor more than the strength in you!!
