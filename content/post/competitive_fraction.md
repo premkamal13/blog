@@ -1,39 +1,105 @@
 ---
 title: "Competitive Fraction"
 date: 2018-04-25T17:39:00+05:30
-draft: true
+draft: false
 categories:
-- childhood
-- story
-tags:
 - article
+tags:
+- childhood
+- lesson
 thumbnailImagePosition: left
 thumbnailImage: ![img_1](/cf_run.jpg)
 ---
 
 
-**What is it?**
+<font size = "3">A page from my adolescence age diaries... </font>
 
-There is a fraction of competitiveness inside every individual, if you opened this article, i think you do as well. 
-Its not necessarily a bad thing. In a few cases, this feeling decides how people will move forward in life. Well, I am one of those typical weirdoes. Majority of my decisions are motivated by a competitive spirit. I wanna be better, not because maybe I can, but because i have to.
+<img src="/cf_competition_race.png" alt="Drawing" style="height: 300px;"/>
 
-So, who do I compete with? May be a friend, may be a foe. Maybe someone, who is better in eyes of someone I care about or maybe the person I care about. Actually, the answer is whoever gains my attention and I think in some ways he is better than me. 
+**What Competitive Fraction am I talking about?**
 
-![img_2](/cf_competition.jpg)
+The fraction of competitiveness against any rival (be it self) that rests inside every individual.
 
-How did this begin? I don’t know. But I remember having that spark from as long as I can remember - the childhood games that I played, the little inter-house competitions held at school and even a mark less that I got in my subjects of interest.
+What affect that fraction has on you depends majorly on :
 
-**An old story…**
+1. the direction you can channel it to &
 
-I can recall an incident that relates to the title.
-I was in class IV, when some assignment was given the class. I worked hard to complete it. A good friend of mine asked me to let him copy mine for he had forgotten to complete it at home. Well, he copied it and yeah, I was happy to help, all good. 
+2. the control you can practice on it
 
-But something changed afterwards. When our copies returned after being signed, the copy was marked A+ and mine an A. I was not happy about it. I was agitated, there was no difference in the work, no? Why the hell did the teacher mark me a grade less than him. I borrowed his copy and looked at both of them for quite a while. This time I got it. There was one. His handwriting was actually much more appealing than mine. I kept the copy back in my bag with a silent promise to myself. I was going to get better. 
+In a few cases, this feeling decides how you will move forward in life. 
 
-That is my first memory when that competitive fraction got the best out of me. I remembered that incident and I practiced improving my handwriting most of the time. I was more bothered about my handwriting than all my work. Slowly, I began to get better, more curvy, smooth, round and tiny-bit better with every next page that I wrote. 
 
-One day, I got a comment from the same teacher, your handwriting is getting really good. Well, I said thanks but I said that wasn’t enough. It might be a matter of days, when one day, she took my copy and showed it to the whole class as the sample of awesome handwritten sample. There I was, holding up my end of bargain, I made with myself. Now, it was not anymore about that handwriting.
+<p> <font color = "#552525">I am one of those common people. Majority of my decisions are motivated by a competitive spirit. </br>I wanna be better, not because I can, but because i have to. </font></p>
 
-**But lets be vary of what it is not?**
+<br>
+<img src="/cf_competition.jpg" alt="Drawing" style="height: 200px;"/>
+<br>
+<br>
+**So, who do I compete with?**
 
-![img_3](/cf_harm.png)
+May be a friend, may be a foe. Maybe someone, who is better in eyes of someone I care about or maybe the person I care about. Actually, the answer is whoever gains my attention and I wish to chase the ways he is better than me (that happens in a good number of cases). 
+
+In absence of the above, its the prior best-self.
+
+
+.
+
+<img src="/cf_sack_race.jpg" alt="Drawing" style="height: 200px;"/>
+
+.
+
+How did this begin? I don’t know. But I remember having that somewhere within from as long as I can remember - in the childhood games that I played, in the little inter-house competitions held at school and when I got even a mark less that in my subjects of my interest.
+
+<hr>
+
+<font color="#2F4F4F">
+
+**There is an old story embedded in my head.**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/cf_assignment.jpeg" alt="Drawing" style="height: 50px;"/>
+
+I was in class IV, when an essay assignment was given in the Hindi class. I worked hard to complete that long essay (hard for the drifter, that I was). A good friend of mine asked me to let him copy mine for he had forgotten to complete it at home. Well, he copied it and yeah, I was happy to help, all good. 
+
+But something changed afterwards. When our copies returned after being graded, my friend's article was marked an **A+** and mine an **A**. 
+<p>
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<img src="/cf_grades.jpg" alt="Drawing" style="height: 160px;"/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/cf_child_cry.jpg" alt="Drawing" style="height: 140px;"/>
+<br><br>
+<font color = "#552525">I went through so much in the moment:<br><ul> <li> heart-broken by the injustice of teacher</li> <li>betrayal by a friend who I helped and limitless anger for all the unfair world.</li></font> </ul><br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/cf_anger.png" alt="Drawing" style="height: 100px;"/>
+<br>
+<br>" <font color = "#552525"><i>There was no difference at in the essay, no? 
+</br>Why would the teacher mark me a grade less than him. </i>" </font><br> <br>
+</p>I borrowed the graceful copy from my friend and looked at both the copies for a while. It took me some time but I got the difference. <br>
+After the shades of anger faded away, i knew inside why my friend was a clear winner. 
+<br>
+
+His **handwriting** was actually much more appealing than mine. I kept the copy back in my bag with a silent promise to get better. <br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/cf_handwriting.jpg" alt="Drawing" style="width: 500px;"/><br><br>
+<br>
+That is the first strong memory of competitive fraction that rested in me. I remembered that incident and I practiced improving my handwriting most of the time. I always used to get some handwriting assignments from my Dad but this time, it was serious. <br>I was more bothered about my handwriting than completion of the task. Slowly, I began to get better, more curvy, smooth, round and tiny-bit better with every 5 pages that I wrote. 
+
+One day, I got a comment from the same teacher, "<font color = "#228B22">your handwriting is so pretty</font>". I was happy, I thanked her for its recognition but now I had started enjoying this improvement. <br>
+After few days, she took my copy and showed it to the whole class as the sample of <font color = "#228B22"><b>a beautiful piece of handwriting</b></font>. 
+
+
+Done, that appreciation surpassed all the spite and I had a much better hand now!
+<br>
+</font>
+<hr>
+
+After all the good that it does, its just important to keep in head, **when it goes wrong?**
+
+<ul><li>
+ &nbsp;
+<img src="/cf_harm.png" alt="Drawing" style="height: 200px;"/>
+
+<br>
+<li>&nbsp;&nbsp;<img src="/cf_backstab.jpeg" alt="Drawing" style="height: 200px;"/>
+</ul>
+
+<i>probably only when you start thinking of the weaknesses of your competitor more than the strength in you!!
+</i>
