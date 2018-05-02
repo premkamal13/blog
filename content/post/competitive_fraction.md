@@ -8,13 +8,13 @@ tags:
 - childhood
 - lesson
 thumbnailImagePosition: left
-thumbnailImage: ![img_1](/cf_run.jpg)
+thumbnailImage: ![img_1](/cf/cf_run.jpg)
 ---
 
 
 <font size = "2.5">[ A page from my adolescence diaries... ] </font>
 
-<img src="/cf_competition_race.png" alt="Drawing" style="height: 150px;"/>
+<img src="/cf/cf_competition_race.png" alt="Competing kids" style="height: 150px;"/>
 
 **What Competitive Fraction am I talking about?**
 
@@ -32,7 +32,7 @@ In a few cases, this feeling decides how you will move forward in life.
 <p> <font color = "#552525">I am one of those common people. Majority of my decisions are motivated by a competitive spirit. </br>I wanna be better, not because I can, but because i have to. </font></p>
 
 <br>
-<img src="/cf_competition.jpg" alt="Drawing" style="height: 150px;"/>
+<img src="/cf/cf_competition.jpg" alt="Boat race" style="height: 150px;"/>
 <br>
 <br>
 **So, who do I compete with?**
@@ -44,7 +44,7 @@ In absence of the above, its the prior best-self.
 
 .
 
-<img src="/cf_sack_race.jpg" alt="Drawing" style="height: 150px;"/>
+<img src="/cf/cf_sack_race.jpg" alt="Sack race" style="height: 150px;"/>
 
 .
 
@@ -56,20 +56,20 @@ How did this begin? I don’t know. But I remember having that somewhere within 
 
 **There is an old story embedded in my head.**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/cf_assignment.jpeg" alt="Drawing" style="height: 50px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/cf/cf_assignment.jpeg" alt="Assignment" style="height: 50px;"/>
 
 I was in class IV, when an essay assignment was given in the Hindi class. I worked hard to complete that long essay (hard for the drifter, that I was). A good friend of mine asked me to let him copy mine for he had forgotten to complete it at home. Well, he copied it and yeah, I was happy to help, all good. 
 
 But something changed afterwards. When our copies returned after being graded, my friend's article was marked an **A+** and mine an **A**. 
 <p>
 <br>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;<img src="/cf_grades.jpg" alt="Drawing" style="height: 160px;"/> 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<img src="/cf/cf_grades.jpg" alt="High Grades" style="height: 160px;"/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/cf_child_cry.jpg" alt="Drawing" style="height: 120px;"/>
+<img src="/cf/cf_child_cry.jpg" alt="Low grades" style="height: 120px;"/>
 <br><br>
 <font color = "#552525">I went through so much in the moment:<br><ul> <li> heart-broken by the injustice of the teacher</li> <li>betrayal by a friend who I helped & </li> <li>wrath for the unfair world.</li></font> </ul><br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/cf_anger.png" alt="Drawing" style="height: 100px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/cf/cf_anger.png" alt="Angry kid" style="height: 100px;"/>
 <br>
 <br>" <font color = "#552525"><i>There was no difference in our essays, no? 
 </br>Why would the teacher mark me a grade less than him? </i>" </font><br> <br>
@@ -78,7 +78,7 @@ After the shades of anger faded away, i knew inside why my friend was a clear wi
 <br>
 
 His **handwriting** was actually much more appealing than mine. I kept the copy back in my bag with a silent promise to get better. <br>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/cf_handwriting.jpg" alt="Drawing" style="width: 300px;"/><br><br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/cf/cf_handwriting.jpg" alt="Beautiful Handwriting" style="width: 300px;"/><br><br>
 <br>
 That is the first strong memory of competitive fraction that rested in me. I remembered that incident and I practiced improving my handwriting most of the time. I always used to get some handwriting assignments from my Dad but this time, it was serious. <br>I was more bothered about my handwriting than completion of the task. Slowly, I began to get better, more curvy, smooth, round and tiny-bit better with every 5 pages that I wrote. 
 
@@ -95,10 +95,10 @@ After all the good that it does, its just important to keep in head, **when it g
 
 <ul><li>
  &nbsp;
-<img src="/cf_harm.png" alt="Drawing" style="width: 350px;"/>
+<img src="/cf/cf_harm.png" alt="Harm others" style="width: 350px;"/>
 <br>
 <br>
-<li>&nbsp;&nbsp;<img src="/cf_backstab.jpeg" alt="Drawing" style="height: 120px;"/>
+<li>&nbsp;&nbsp;<img src="/cf/cf_backstab.jpeg" alt="Back stab" style="height: 120px;"/>
 </ul>
 
 <i>probably only when you start thinking of the weaknesses of your competitor more than the strength in you!!

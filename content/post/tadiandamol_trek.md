@@ -1,6 +1,6 @@
 ---
 title: "Dilemma at the peak"
-date: 2018-04-25T17:39:00+05:30
+date: 2018-05-03T12:44:00+05:30
 draft: false
 categories:
 - poem
@@ -32,6 +32,6 @@ To fill it back just right this time, descended a nature-nurtured free.
 
 <br><br><br><br><br><br>
 <p align="right">
-- Pictures taken & poem written by **premkamal**
+- Pictures taken & lines written by **premkamal**
 
 </p>
