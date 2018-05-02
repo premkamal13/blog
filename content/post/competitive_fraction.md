@@ -12,7 +12,7 @@ thumbnailImage: ![img_1](/cf_run.jpg)
 ---
 
 
-<font size = "3">A page from my adolescence diaries... </font>
+<font size = "2.5">[ A page from my adolescence diaries... ] </font>
 
 <img src="/cf_competition_race.png" alt="Drawing" style="height: 150px;"/>
 
