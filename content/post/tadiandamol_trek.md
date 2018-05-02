@@ -12,7 +12,7 @@ thumbnailImagePosition: left
 thumbnailImage: ![img_1](/tp/tp_bag.jpg)
 ---
 <p>
-<img src="/tp/tp_bag.jpg" alt="Mountain Peak" style="width: 150px;" align="left"/>&nbsp;<img src="/tp/tp_ponder.jpg" alt="Mountain Peak" style="width: 150px;" align="right" />
+<img src="/tp/tp_bag.jpg" alt="From the top" style="width: 150px;" align="left"/>&nbsp;<img src="/tp/tp_ponder.jpg" alt="Sitting on the edge" style="width: 150px;" align="right" />
 </p>
 <br><br><br><br><br><br>
 <p align="center">
@@ -27,5 +27,11 @@ To fill it back just right this time, descended a nature-nurtured free.
 </p>
 <br>
 <p>
-<img src="/tp/tp_hill.jpg" alt="Mountain Peak" style="width: 150px;" align="left"/>&nbsp;<img src="/tp/tp_shoes.jpg" alt="Mountain Peak" style="width: 150px;" align="right"/>
+<img src="/tp/tp_hill.jpg" alt="Stretch of hills" style="width: 150px;" align="left"/>&nbsp;<img src="/tp/tp_shoes.jpg" alt="At the peak" style="width: 150px;" align="right"/>
+</p>
+
+<br><br><br><br><br><br>
+<p align="right">
+- Pictures taken & poem written by **premkamal**
+
 </p>
