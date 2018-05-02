@@ -1,6 +1,6 @@
 ---
 title: "Dilemma at the peak"
-date: 2018-05-03T12:54:00+05:30
+date: 2018-05-03T12:34:00+05:30
 draft: false
 categories:
 - poem
@@ -11,6 +11,7 @@ tags:
 thumbnailImagePosition: left
 thumbnailImage: ![img_1](/tp/tp_bag.jpg)
 ---
+
 <p>
 <img src="/tp/tp_bag.jpg" alt="From the top" style="width: 150px;" align="left"/>&nbsp;<img src="/tp/tp_ponder.jpg" alt="Sitting on the edge" style="width: 150px;" align="right" />
 </p>
