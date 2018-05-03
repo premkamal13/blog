@@ -39,11 +39,11 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "About"
-  url = "about/"
+  url = ""
 
   [[params.navlinks]]
   name = "Get in touch"
-  url = "contact/"
+  url = ""
 
   [params.social]
   facebook      = "https://www.facebook.com/prem.kamal.56"

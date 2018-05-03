@@ -1,6 +1,6 @@
 ---
 title: "Dilemma at the peak"
-date: 2018-05-03T00:34:00+05:30
+date: 2018-04-30T00:34:00+05:30
 draft: false
 categories:
 - poem
