@@ -14,8 +14,8 @@ googleAnalytics = ""
   description = "Stories of a traveler & adventure lover"
   copyright = "&copy;2018 premkamal"
   sidebarAbout = [
-    "I am an adventure lover who loves to travel, listen to new stories and meet new people",
-    "Originally from Daltonganj, currently based in Bengaluru."
+    "I am an adventure lover who likes to listen to new stories and meet new people!",
+    "Originally from Jharkhand India, lived for a while in Karnataka, traveled to Wisconsin, living in California."
   ]
 
   # Contact page
@@ -39,11 +39,11 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "About"
-  url = ""
+  url = "about/"
 
   [[params.navlinks]]
   name = "Get in touch"
-  url = ""
+  url = "contact/"
 
   [params.social]
   linkedin      = "https://www.linkedin.com/in/premkamal/"
