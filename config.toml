@@ -46,11 +46,6 @@ googleAnalytics = ""
   url = ""
 
   [params.social]
-  facebook      = "https://www.facebook.com/prem.kamal.56"
-  googleplus    = "https://plus.google.com/+PremKamal13"
-  email         = "premkamal008@gmail.com"
-  twitter       = "https://twitter.com/premkamal008"
   linkedin      = "https://www.linkedin.com/in/premkamal/"
-  stackoverflow = "https://stackoverflow.com/users/4548881/premkamal008"
-  instagram     = "https://www.instagram.com/kamal_prem/"
+  instagram     = "https://www.instagram.com/ipremkamal/"
   github        = "https://github.com/premkamal13"
