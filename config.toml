@@ -35,15 +35,15 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = ""
+  url = "https://happily.netlify.app"
 
   [[params.navlinks]]
   name = "About"
-  url = ""
+  url = "https://www.linkedin.com/in/premkamal/"
 
   [[params.navlinks]]
   name = "Get in touch"
-  url = ""
+  url = "https://www.instagram.com/ipremkamal/"
 
   [params.social]
   linkedin      = "https://www.linkedin.com/in/premkamal/"
