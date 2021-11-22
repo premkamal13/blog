@@ -1,3 +1,6 @@
 [submodule "themes/hugo-tracks-theme"]
 	path = themes/hugo-tracks-theme
 	url = https://github.com/ageekymonk/hugo-tracks-theme.git
+[submodule "themes/nuo"]
+	path = themes/nuo
+	url = https://github.com/laozhu/hugo-nuo
