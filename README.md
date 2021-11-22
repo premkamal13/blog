@@ -1,4 +1,4 @@
-# myreveries.online
+# myreveries online
 
 Blog of some pictures, articles & science...
 
